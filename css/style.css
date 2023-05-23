@@ -1,0 +1,50 @@
+header{
+    color:#005677;
+    background-color: #E6E6E6;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    letter-spacing: 8px;
+}
+h1 {
+    background-color: #C4C4C4;
+}
+
+.SeccionCV {
+    color: #005677;
+    background-color: #C4C4C4;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-transform: uppercase;
+    line-height: 84.69%;
+    font-style: normal;
+    letter-spacing: 8px;
+}
+
+.datos-básicos {
+    font-weight: bold;
+    font-style: italic;
+    text-align: left;
+    margin-left: 0;
+    vertical-align: top;
+}
+
+.años {
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    vertical-align: top;
+}
+
+.descripción {
+    margin-left: 0;
+}
+
+footer {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    background-color: #005677;
+    background-position: right bottom;
+}
