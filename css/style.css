@@ -1,50 +1,80 @@
 header{
-    color:#005677;
-    background-color: #E6E6E6;
+    background-image: url("../img/img-header.jpg");
+    width: 1735px;
+    height: 200px;
     text-align: center;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 35px;
-    letter-spacing: 8px;
+}
+
+.foto_perfil{
+    width: 174px;
+    height: 231px;
+    margin-top: -30px;
+    margin-left;: 20px
 }
 h1 {
-    background-color: #C4C4C4;
+    color:#4D6ABB;
+    background-color: #FAF5C3;
+    text-align: center;
+    font-size: 35px;
+    letter-spacing: 2px;
+    padding-bottom: -300px;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+main {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .SeccionCV {
-    color: #005677;
-    background-color: #C4C4C4;
-    font-family: 'Times New Roman', Times, serif;
+    color: #4D6ABB;
+    background-color: #FAF5C3;
+    font-family: 'Montserrat', sans-serif;  
     font-size: 20px;
     text-transform: uppercase;
     line-height: 84.69%;
     font-style: normal;
-    letter-spacing: 8px;
+    letter-spacing: 2px;
+    margin-left: 20px;
 }
-
 .datos-básicos {
     font-weight: bold;
     font-style: italic;
     text-align: left;
     margin-left: 0;
     vertical-align: top;
+    font-family: 'Montserrat', sans-serif;
 }
-
 .años {
     font-weight: bold;
     font-size: 15px;
-    font-family: 'Times New Roman', Times, serif;
-    text-align: left;
     vertical-align: top;
+    position: relative;
+    left: 20px;
 }
 
 .descripción {
-    margin-left: 0;
-}
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    position: relative;
+    left: -20px;}
 
 footer {
     text-align: center;
-    color: white;
+    color: #FAF5C3;
     font-size: 20px;
-    background-color: #005677;
-    background-position: right bottom;
+    background-color: #4D6ABB;
+    padding: 6px 6px;
+}
+
+.insta {
+    margin-left: 25px;
+    margin-bottom: -2px
+}
+
+.linkedIn {
+    margin-left: 25px;
+    margin-bottom: -2px
 }
