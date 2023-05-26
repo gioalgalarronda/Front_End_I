@@ -1,14 +1,15 @@
 header{
-    background-image: url("../img/img-header.jpg");
+    background-image: url("../img/amapola.jpg");
+    background-repeat: repeat;
     width: 1735px;
     height: 200px;
     text-align: center;
 }
 
 .foto_perfil{
-    width: 174px;
-    height: 231px;
-    margin-top: -30px;
+    width: 151px;
+    height: 200px;
+    margin-top: 0px;
     margin-left;: 20px
 }
 h1 {
@@ -17,8 +18,8 @@ h1 {
     text-align: center;
     font-size: 35px;
     letter-spacing: 2px;
-    padding-bottom: -300px;
     font-family: 'Montserrat', sans-serif;
+    margin-top: 0px;
     
 }
 
@@ -38,6 +39,7 @@ main {
     font-style: normal;
     letter-spacing: 2px;
     margin-left: 20px;
+    margin-top: 50px;
 }
 .datos-básicos {
     font-weight: bold;
